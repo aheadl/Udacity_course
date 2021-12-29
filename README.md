@@ -1,5 +1,5 @@
 # Udacity_course
-Introduction
+<b>Introduction</b>
 Dataset Description
 The datasets used in this project reside in a database with 7 tables (listed below), which have data on the European Soccer leagues:
 
